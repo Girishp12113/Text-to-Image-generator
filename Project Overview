@@ -1,0 +1,25 @@
+🖼️ Text-to-Image Generator using Stable Diffusion
+This project showcases a Text-to-Image Generator that uses the powerful Stable Diffusion v1.5 model to create realistic images from natural language prompts. Built using the Hugging Face Diffusers library and run on Google Colab with GPU acceleration, the system takes user input in the form of text and generates visually accurate images that match the description.
+
+🔧 Features
+Text prompt-based image generation using Stable Diffusion.
+Deployed on Google Colab with GPU support for faster performance.
+Utilizes half-precision (float16) for efficient memory usage.
+Saves the generated image as a downloadable PNG file.
+Simple and minimal Python-based implementation for easy use and understanding.
+
+📌 Technologies Used
+Python
+Hugging Face Diffusers
+PyTorch
+Google Colab
+CUDA (GPU acceleration)
+
+🚀 How It Works
+User enters a text prompt.
+The Stable Diffusion model processes the input and generates an image.
+The image is saved locally in the Colab environment.
+
+User can download or view the generated output.
+*To view the source code open the readme file and go to the code of the readme file.
+
